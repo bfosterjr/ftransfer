@@ -45,7 +45,7 @@ _print_usage()
 {
     printf("FTRANSFER Usage:\n\n");
     printf("\tServer:\n");
-    printf("\t\tftransfer.exe -s -p <listen port>");
+    printf("\t\tftransfer.exe -s -p <listen port>\n");
     printf("\tClient:\n");
     printf("\t\tftransfer.exe -c -a <server address> -p <port> -f <input file> -d <destination file>");
     printf("\n\n");
